@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackingTugas</string>
+    <string name="kosong">Empty</string>
+    <string name="create_table">CREATE TABLE</string>
+</resources>

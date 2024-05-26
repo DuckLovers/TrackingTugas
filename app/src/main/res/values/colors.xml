@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Text1">#110029</color>
+    <color name="Background1">#f8f5fc</color>
+    <color name="Background2">#f1ebfa</color>
+    <color name="Background3">#e0cdfa</color>
+    <color name="Brand">#b78eed</color>
+    <color name="Button">#E3E1D9</color>
+    <color name="BelumDikerjakan">#ff3341</color>
+    <color name="SedangDikerjakan">#faf43c</color>
+    <color name="Selesai">#47e4fc</color>
+    <color name="Terkumpul">#3cfa88</color>
+</resources>
